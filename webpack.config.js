@@ -6,7 +6,7 @@ var config = require('./webpack/' + process.env.NODE_ENV);
 module.exports = Object.assign(config, {
   entry: './src/index.js',
   output: {
-    filename: 'othello.js',
+    filename: 'reversi.js',
     path: path.join(__dirname, 'dist')
   },
   module: {

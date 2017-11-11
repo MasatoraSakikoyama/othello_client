@@ -1,5 +1,5 @@
 {
-  "name": "othello_client",
+  "name": "reversi_client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MasatoraSakikoyama/othello_client.git"
+    "url": "git+https://github.com/MasatoraSakikoyama/reversi_client.git"
   },
   "author": "MasatoraSakikoyama",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MasatoraSakikoyama/othello_client/issues"
+    "url": "https://github.com/MasatoraSakikoyama/reversi_client/issues"
   },
-  "homepage": "https://github.com/MasatoraSakikoyama/othello_client#readme",
+  "homepage": "https://github.com/MasatoraSakikoyama/reversi_client#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.1",

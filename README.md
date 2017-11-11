@@ -1,1 +1,1 @@
-# othello game client
+# reversi game client
